@@ -1,0 +1,12 @@
+**IMPORTANT**
+INPUT THIS INTO YOUR TERMINAL TO SETUP THE LIVE ENVIRONMENT 
+
+If you are using VSCODE, input this into the VSCODE terminal to setup your environment 
+
+$ mkdir binance_crypto_trading
+$ cd binance_crypto_trading
+$ pip install virtualenv
+
+# here crypto is our virtual env, but you can use any name here
+$ virtualenv crypto
+$ source crypto/bin/activate    # activate the virtual env
